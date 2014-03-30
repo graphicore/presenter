@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="_base.svg">
+   sodipodi:docname="0800.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -535,9 +535,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88551267"
-     inkscape:cx="665.92079"
-     inkscape:cy="438.33539"
+     inkscape:zoom="1.1201896"
+     inkscape:cx="527.17511"
+     inkscape:cy="322.72449"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -605,57 +605,76 @@
        style="fill:#999999;fill-opacity:1;stroke:none"
        id="rect5893"
        width="1024"
-       height="646.57147"
+       height="768"
        x="-8.6914065e-07"
        y="284.36227" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4249"
        width="1024"
-       height="172.85715"
+       height="501.6546"
        x="-8.6914065e-07"
        y="403.93369" />
     <text
        xml:space="preserve"
-       style="font-size:58.79544067px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans Caption;-inkscape-font-specification:PT Sans Caption Bold"
        x="109.6866"
        y="473.11581"
        id="text4740"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="109.6866"
          y="473.11581"
-         style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans Caption;-inkscape-font-specification:PT Sans Caption Bold"
-         id="tspan5485">Head:</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4249-9"
-       width="1024"
-       height="122.85715"
-       x="-8.6914065e-07"
-       y="929.50507" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans;font-stretch:normal;font-variant:normal"
-       x="248.875"
-       y="1008.0765"
-       id="text5895"
-       sodipodi:linespacing="125%"><tspan
+         style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans Caption;-inkscape-font-specification:PT Sans Caption Bold"
+         id="tspan4916">There was no FLOSS to create</tspan><tspan
          sodipodi:role="line"
-         id="tspan5897"
-         x="248.875"
-         y="1008.0765">https://url</tspan></text>
+         x="109.6866"
+         y="531.91125"
+         style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans Caption;-inkscape-font-specification:PT Sans Caption Bold"
+         id="tspan4920">multitone images.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:58.79544066999999785px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans;font-stretch:normal;font-variant:normal"
+       style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans"
        x="109.6866"
-       y="557.15039"
+       y="616.28888"
        id="text4740-59"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="109.6866"
-         y="557.15039"
+         y="616.28888"
          style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
-         id="tspan5485-3">Info</tspan></text>
+         id="tspan4871">But we have a mission!</tspan><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="689.7832"
+         style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan4932">Turns out EPS can represent this.</tspan><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="763.27747"
+         style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3096" /><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="836.77179"
+         style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan4928" /><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="910.26611"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan4926" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:58.79544067px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Italic"
+       x="109.6866"
+       y="887.84937"
+       id="text4740-59-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="887.84937"
+         style="font-size:36px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans Italic"
+         id="tspan4926-03">(Thanks for the hint, Photoshop.)</tspan></text>
   </g>
 </svg>

@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="_base.svg">
+   sodipodi:docname="0400.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -535,9 +535,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88551267"
-     inkscape:cx="665.92079"
-     inkscape:cy="438.33539"
+     inkscape:zoom="0.88551271"
+     inkscape:cx="326.0966"
+     inkscape:cy="401.04888"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -605,14 +605,14 @@
        style="fill:#999999;fill-opacity:1;stroke:none"
        id="rect5893"
        width="1024"
-       height="646.57147"
+       height="768"
        x="-8.6914065e-07"
        y="284.36227" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4249"
        width="1024"
-       height="172.85715"
+       height="320.91943"
        x="-8.6914065e-07"
        y="403.93369" />
     <text
@@ -626,36 +626,44 @@
          x="109.6866"
          y="473.11581"
          style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans Caption;-inkscape-font-specification:PT Sans Caption Bold"
-         id="tspan5485">Head:</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4249-9"
-       width="1024"
-       height="122.85715"
-       x="-8.6914065e-07"
-       y="929.50507" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans;font-stretch:normal;font-variant:normal"
-       x="248.875"
-       y="1008.0765"
-       id="text5895"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5897"
-         x="248.875"
-         y="1008.0765">https://url</tspan></text>
+         id="tspan3814">Mission Statement:</tspan></text>
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.85896522;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 549.51908,819.10668 c -6.81109,0 -13.36765,0.41368 -19.60527,1.26615 l -0.19784,2.03771 -0.23744,2.51232 -5.30188,56.02642 c -5.87001,1.58699 -11.24066,3.06495 -16.32127,4.51065 l 5.32169,-56.99573 0.23742,-2.53228 0.19785,-2.11681 c -22.71707,6.71229 -38.57282,20.62731 -41.58457,41.96047 -2.02042,14.31107 -4.28083,25.20782 -6.5285,33.33482 -19.42273,7.57082 -23.62134,12.65229 -23.62134,17.62704 0,6.0346 4.10753,8.05183 9.83235,8.05183 7.46236,0 13.02574,-4.73888 17.98305,-23.18614 5.84178,-2.10988 13.5571,-4.53436 23.38393,-7.37911 l -2.01792,21.24729 c -28.7486,11.76935 -54.12719,28.43633 -54.12719,44.53232 0,13.06635 12.40967,20.67372 29.81345,20.67372 18.02797,0 32.74894,-4.47586 35.8474,-38.87443 l 2.53227,-27.06364 c 5.39617,-2.00476 10.90855,-3.71111 16.34105,-5.12387 l -1.97831,20.91111 c -2.08012,22.00514 5.04965,30.88166 24.86762,30.88166 22.27964,0 41.09,-15.39923 41.09,-35.47142 0,-17.81767 -14.0293,-26.66565 -29.63543,-26.48999 -5.58948,0.0623 -12.3204,0.88024 -19.72401,2.31474 l 1.85965,-19.7043 c 4.13916,-1.07676 8.38309,-2.17775 12.91851,-3.34342 21.28638,-5.47019 36.2035,-12.94747 36.2035,-33.47341 0,-17.92813 -12.39155,-26.1337 -37.54877,-26.1337 z m -0.39564,4.51049 c 15.19395,0 18.79416,5.52508 18.79416,13.65066 0,26.00613 -5.23304,33.65318 -16.08391,36.42097 -4.67371,1.1922 -9.12022,2.33952 -13.41308,3.46207 l 5.04475,-53.43463 c 1.86899,-0.0676 3.7592,-0.0997 5.65808,-0.0997 z m -50.40799,10.97979 -5.2228,55.07683 c -8.98594,2.72363 -16.47208,5.19123 -22.67168,7.43845 1.90111,-8.04291 3.73711,-18.29332 5.55912,-31.25755 1.99178,-14.17265 10.25703,-24.40328 22.33536,-31.25773 z m 25.00619,51.19933 -1.82011,19.2689 c -5.3358,1.43003 -10.83812,3.10717 -16.34099,4.98544 l 1.85959,-19.84273 c 5.01331,-1.3766 10.3789,-2.84137 16.30151,-4.41161 z m -59.58742,17.94343 c -3.81319,11.99027 -7.47283,16.34113 -9.77297,16.34113 -2.24023,0 -3.42255,-1.50059 -3.42255,-4.82725 0,-3.85131 2.34656,-7.04311 13.19552,-11.51388 z m 90.88465,1.00907 c 7.30367,0 10.94014,5.69806 10.94014,14.04615 0,24.07868 -10.05434,37.86534 -20.79227,37.86534 -9.77168,0 -13.49308,-8.30576 -11.55344,-28.82441 l 2.01791,-21.26707 c 7.1007,-1.20218 13.74207,-1.82001 19.38766,-1.82001 z m -64.4937,16.32117 -2.05747,21.84089 c -2.30848,24.42181 -12.0918,32.88006 -20.2779,32.88006 -8.25892,0 -11.63258,-6.39489 -11.63258,-13.90804 0,-17.36133 14.86299,-31.14506 33.96795,-40.81291 z"
+       id="path3201-3-2-0-1-6-6-2-0-5-0-74-0-5-0-2-0-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccccccccscsscccssccccsssccssssssccscccscccccccsscsssccsccssc" />
     <text
        xml:space="preserve"
        style="font-size:58.79544066999999785px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans;font-stretch:normal;font-variant:normal"
        x="109.6866"
-       y="557.15039"
-       id="text4740-59"
+       y="556.32727"
+       id="text4740-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="109.6866"
-         y="557.15039"
+         y="556.32727"
          style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
-         id="tspan5485-3">Info</tspan></text>
-  </g>
+         id="tspan5485-7">We make valuable</tspan><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="629.82159"
+         style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3818-4">[photography] Books</tspan><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="703.31586"
+         style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3814-9">using exclusively FLOSS. </tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3864"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3866"><rect
+           id="rect3868"
+           width="702.30457"
+           height="59.912239"
+           x="-21.634975"
+           y="118.95075" /></flowRegion><flowPara
+         id="flowPara3870" /></flowRoot>  </g>
 </svg>
