@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="_base.svg">
+   sodipodi:docname="1300.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -535,9 +535,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92275755"
-     inkscape:cx="621.8201"
-     inkscape:cy="371.24925"
+     inkscape:zoom="0.53748791"
+     inkscape:cx="-5.9210692"
+     inkscape:cy="356.60531"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -555,7 +555,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -610,10 +610,10 @@
        y="284.36227" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4249"
+       id="rect4249-8"
        width="1024"
-       height="172.85715"
-       x="-8.6914065e-07"
+       height="322"
+       x="0"
        y="403.93369" />
     <text
        xml:space="preserve"
@@ -626,28 +626,10 @@
          x="109.6866"
          y="473.11581"
          style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans Caption;-inkscape-font-specification:PT Sans Caption Bold"
-         id="tspan5485">Head:</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4249-9"
-       width="1024"
-       height="122.85715"
-       x="-8.6914065e-07"
-       y="929.50507" />
+         id="tspan5485">Adopt Color Management:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans;font-stretch:normal;font-variant:normal"
-       x="248.875"
-       y="1008.0765"
-       id="text5895"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5897"
-         x="248.875"
-         y="1008.0765">https://url</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:58.79544066999999785px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans;font-stretch:normal;font-variant:normal"
+       style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans"
        x="109.6866"
        y="557.15039"
        id="text4740-59"
@@ -655,7 +637,17 @@
          sodipodi:role="line"
          x="109.6866"
          y="557.15039"
-         style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
-         id="tspan5485-3">Info</tspan></text>
+         style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan5485-3">Interfaces</tspan><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="630.64471"
+         style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3825">Data Structure</tspan><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="704.13898"
+         style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3827">…</tspan></text>
   </g>
 </svg>

@@ -535,9 +535,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5046082"
-     inkscape:cx="328.18006"
-     inkscape:cy="262.77814"
+     inkscape:zoom="2.2403793"
+     inkscape:cx="670.55949"
+     inkscape:cy="187.45247"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -628,7 +628,7 @@
          x="109.6866"
          y="473.11581"
          style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans Caption;-inkscape-font-specification:PT Sans Caption Bold"
-         id="tspan5485">Workflow—Tools:</tspan></text>
+         id="tspan5485">Image Workflow:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans"
@@ -668,12 +668,12 @@
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
          id="tspan3634"><tspan
    style="font-weight:bold;-inkscape-font-specification:PT Sans Bold"
-   id="tspan3754">ConTeXt</tspan>—layout</tspan><tspan
+   id="tspan3754">ConTeXt</tspan>—layout, typesetting</tspan><tspan
          sodipodi:role="line"
          x="234.12463"
          y="902.60968"
          style="font-size:36px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans Italic"
-         id="tspan3636">Result: pdf</tspan></text>
+         id="tspan3636">Result: PDF for the print shop</tspan></text>
     <g
        id="g3664"
        transform="matrix(0,1,-1,0,912.67678,568.27327)">

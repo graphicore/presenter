@@ -535,9 +535,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76012268"
-     inkscape:cx="634.59704"
-     inkscape:cy="338.07592"
+     inkscape:zoom="1.3049762"
+     inkscape:cx="508.71673"
+     inkscape:cy="525.70976"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -629,7 +629,7 @@
          id="tspan5485">Preparations:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:58.79544066999999785px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans;font-stretch:normal;font-variant:normal"
+       style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans"
        x="109.6866"
        y="557.15039"
        id="text4740-59"
@@ -637,12 +637,12 @@
          sodipodi:role="line"
          x="109.6866"
          y="557.15039"
-         style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
-         id="tspan3228">Learn some PostScript.</tspan><tspan
+         style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3228">learn (some) PostScript</tspan><tspan
          sodipodi:role="line"
          x="109.6866"
          y="630.64471"
-         style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
-         id="tspan3232">Enhance python-ghostscript.</tspan></text>
+         style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3232">enhance python-ghostscript</tspan></text>
   </g>
 </svg>

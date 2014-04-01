@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="_base.svg">
+   sodipodi:docname="1400.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -535,9 +535,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92275755"
-     inkscape:cx="621.8201"
-     inkscape:cy="371.24925"
+     inkscape:zoom="1.1201896"
+     inkscape:cx="546.26332"
+     inkscape:cy="517.90037"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -564,6 +564,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-284.36227)">
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       id="rect5893"
+       width="1024"
+       height="768"
+       x="2.9296871e-08"
+       y="284.36227" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4249-8"
+       width="1024"
+       height="322"
+       x="2.9296871e-08"
+       y="403.93369" />
     <g
        inkscape:groupmode="layer"
        id="layer2"
@@ -601,20 +615,6 @@
            y="911.51678"
            id="tspan6208-3-1" /></text>
     </g>
-    <rect
-       style="fill:#999999;fill-opacity:1;stroke:none"
-       id="rect5893"
-       width="1024"
-       height="768"
-       x="-8.6914065e-07"
-       y="284.36227" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4249"
-       width="1024"
-       height="172.85715"
-       x="-8.6914065e-07"
-       y="403.93369" />
     <text
        xml:space="preserve"
        style="font-size:58.79544067px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -626,28 +626,10 @@
          x="109.6866"
          y="473.11581"
          style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans Caption;-inkscape-font-specification:PT Sans Caption Bold"
-         id="tspan5485">Head:</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4249-9"
-       width="1024"
-       height="122.85715"
-       x="-8.6914065e-07"
-       y="929.50507" />
+         id="tspan5485">Color Profile Sourcing:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans;font-stretch:normal;font-variant:normal"
-       x="248.875"
-       y="1008.0765"
-       id="text5895"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5897"
-         x="248.875"
-         y="1008.0765">https://url</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:58.79544066999999785px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans;font-stretch:normal;font-variant:normal"
+       style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans"
        x="109.6866"
        y="557.15039"
        id="text4740-59"
@@ -655,7 +637,29 @@
          sodipodi:role="line"
          x="109.6866"
          y="557.15039"
-         style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
-         id="tspan5485-3">Info</tspan></text>
+         style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan5485-3">Help is appreciated!</tspan><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="630.64471"
+         style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3686">Do you know an interested and</tspan><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="704.13898"
+         style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan5060">capable print shop?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="720.66602"
+       y="245.6526"
+       id="text3674"
+       sodipodi:linespacing="125%"
+       transform="translate(0,284.36227)"><tspan
+         sodipodi:role="line"
+         id="tspan3676"
+         x="720.66602"
+         y="245.6526" /></text>
   </g>
 </svg>

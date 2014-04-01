@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="_base.svg">
+   sodipodi:docname="1800.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -535,9 +535,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92275755"
-     inkscape:cx="621.8201"
-     inkscape:cy="371.24925"
+     inkscape:zoom="0.79209364"
+     inkscape:cx="283.37532"
+     inkscape:cy="373.70216"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -546,7 +546,8 @@
      inkscape:window-height="1056"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -555,7 +556,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -612,7 +613,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4249"
        width="1024"
-       height="172.85715"
+       height="613.33099"
        x="-8.6914065e-07"
        y="403.93369" />
     <text
@@ -626,28 +627,10 @@
          x="109.6866"
          y="473.11581"
          style="font-size:58.79544067px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans Caption;-inkscape-font-specification:PT Sans Caption Bold"
-         id="tspan5485">Head:</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4249-9"
-       width="1024"
-       height="122.85715"
-       x="-8.6914065e-07"
-       y="929.50507" />
+         id="tspan5485">Thank You</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans;font-stretch:normal;font-variant:normal"
-       x="248.875"
-       y="1008.0765"
-       id="text5895"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5897"
-         x="248.875"
-         y="1008.0765">https://url</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:58.79544066999999785px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans;font-stretch:normal;font-variant:normal"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans"
        x="109.6866"
        y="557.15039"
        id="text4740-59"
@@ -655,7 +638,76 @@
          sodipodi:role="line"
          x="109.6866"
          y="557.15039"
-         style="font-size:58.79544066999999785px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
-         id="tspan5485-3">Info</tspan></text>
-  </g>
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan5485-3">https://github.com/graphicore/multitoner</tspan><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="617.15039"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3944">https://silber-und-blei.com</tspan><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="677.15039"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3950">http://graphicore.de</tspan><tspan
+         sodipodi:role="line"
+         x="109.6866"
+         y="737.15039"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3974" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+       x="112.8546"
+       y="747.99982"
+       id="text4740-59-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="112.8546"
+         y="747.99982"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3696-0">kontakt@silber-und-blei.com</tspan><tspan
+         sodipodi:role="line"
+         x="112.8546"
+         y="807.99982"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3974-7">twitter: @silberundblei</tspan><tspan
+         sodipodi:role="line"
+         x="112.8546"
+         y="867.99982"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan4145">https://www.facebook.com/silberundblei</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+       x="112.8546"
+       y="878.27319"
+       id="text4740-59-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="112.8546"
+         y="878.27319"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3978-3" /><tspan
+         sodipodi:role="line"
+         x="112.8546"
+         y="938.27319"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3690-9">Lasse Fister &lt;lasse@graphicore.de&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="112.8546"
+         y="998.27319"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+         id="tspan3974-4">twitter: @lassefister</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4102"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans"><flowRegion
+         id="flowRegion4104"><rect
+           id="rect4106"
+           width="683.00006"
+           height="160.33458"
+           x="1148.8541"
+           y="125.39921" /></flowRegion><flowPara
+         id="flowPara4108"></flowPara></flowRoot>  </g>
 </svg>

@@ -1,0 +1,138 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+}
+
+.slides>.slide {
+    width: 100%;
+    height: 100%;
+    
+    margin:0;
+    padding:0;
+    
+    background: center center no-repeat;
+    background-size: contain;
+}
+
+.presenter {
+    width: 1024px;
+    height: 768px;
+    margin: 0;
+    padding: 0;
+    list-style:none;
+    cursor: none;
+}
+
+body.slave{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+
+body.slave .presenter{
+    width: 100%;
+    height: 100%;
+}
+
+.presenter>.slide {
+    display: none;
+}
+
+.presenter>.slide.active {
+    display:block;
+}
+
+.thumbnails {
+    position: absolute;
+    white-space: nowrap;
+    width: 100%;
+    height: auto;
+    overflow-x: scroll;
+    position:absolute;
+    bottom:0;
+    padding:0;
+    margin:0;
+    display: block;
+}
+.thumbnails>*{
+    white-space: normal
+}
+
+.thumbnails>.slide {
+    display:inline-block;
+    width: 160px;
+    height: 120px;
+    margin-right: 20px;
+    -moz-box-sizing: border-box
+    
+}
+
+.thumbnails>.slide.active {
+    border: 3px solid red;
+}
+
+.indicators .label:after{
+    content: ': '
+}
+
+.indicators>* {
+    font-weight: bold;
+    margin-right: 1em;
+}
+.indicators>.label{
+    font-weight:normal;
+    margin-right: 0;
+}
+
+.prompter{
+    margin: 0;
+    position: absolute;
+    width: calc(100% - 1024px);
+    
+    top:0;
+    right:0;
+    max-height: 768px;
+    overflow: auto;
+    background: lightgray;
+    
+    -moz-box-sizing: padding-box;
+    color: black;
+}
+
+.prompter>.slide {
+    border: 1px solid transparent;
+    -moz-box-sizing: border-box;
+    opacity: .3;
+    transition: opacity .3s ease-in;
+    
+    margin-bottom: 1em;
+    min-height: 1.5em;
+    background: white;
+}
+
+.prompter>.slide>*{
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.prompter>.slide.active {
+    opacity: 1
+}
+
+menu, aside{
+    display: inline-block;
+    margin:0;
+    text-align: center;
+}
+menu {
+    width: calc(100% - 1024px);
+    padding:0;
+}
+aside {
+    width:1024px;
+    font-size: 1.4em;
+}

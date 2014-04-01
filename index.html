@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+    <title>Multitoner | Presenter</title>      
+    <link rel="stylesheet" href="/css/main.css" />
+    <script
+        src="/js/lib/require.js"
+        data-main="/js/main.js" ></script>
+    <script>
+    define('globals', {
+        slides: [
+            ['slides/0100.svg', '<p>Hello everyone\
+             </p><p>I’m here today to introduce the multitioner.\
+             </p><p>A tool I started last year.\
+             </p><p>I’m going to tell you the whole story of the multitoner <br />\
+             and give you a short live demonstration of the current state.\
+             </p><p>Then I will talk about the next steps and invite everyone to become a contributor.\
+             </p>']
+          , ['slides/0200.svg', '<p>My name is Lasse.\
+             </p><p>I work as a freelance web application developer for different clients.\
+             </p><p>And I studied visual communication at the Bauhaus University Weimar.\
+             </p><p>Weimar is quite close to Leipzig.\
+             </p><p>I often think that I should do more design work.\
+             </p>']
+          , ['slides/0300.svg', '\
+                 <p>My partner Anne is trained photographer, geographer and writer.\
+             </p><p>So it felt quite natural for us to start making books together.\
+             </p><p>We foundet our label »Silber und Blei« which is German for “Silver and Lead”.\
+             </p><p>Silver stands for the silver-salts used in anologe photography.\
+             </p><p>Lead stands for the metal used in  casting&nbsp;metal&nbsp;type\
+             </p><p>So silver is Annes part the lead is my side.\
+             </p>']
+          , ['slides/0400.svg', '<p>\ We decided to make really good and valuable books\
+             using only Open Source Software.\
+             </p><p>That includes that we provide tools by ourselves if they are missing.\
+             </p>']
+          , ['slides/0500.svg', '<p>Our first book will be about Angel Statues on cemeteries \
+             </p><p>and there will be only black-and-white photography in it.\
+             </p><p>When researching printing techniques we found out that using only one ink \
+             for black-and-white reproduction is not enough.\
+             </p><p>One ink, like the black one in this case, can only display around 60 different colors; \
+             </p><p>So a lot of detail is lost, the image looks really dull and misses depth.\
+             </p>']
+          , ['slides/0600.svg', '\
+                 <p>The solution is to use more than one ink to display the black-and-white image.\
+             </p><p>What we do is to widen the gamut of the output device.\
+             Gamut is the set of different colors a device can display.\
+             </p><p>What you could do is using black for the shadows, a darker green for the midtones and\
+             a lighter gray to display the highlights.\
+             </p><p>When you use three inks it’s called a “tritone”. With two inks it’s a “duotone”\
+             and with four it’s a “quadtone”. In printing there is no name like “pentatone” defined yet,\
+             however, it’s entirely possible.\
+             </p><p>“Multitone” stands for any of these options.\
+             </p><p>We are  most probably going to use tritone for our book.\
+             </p>']
+          , ['slides/0700.svg', '<p>This is the workflow for the pictures of our project, as I imagined it.\
+             </p><p>The images are coming from a camera or scanner. We process them to create black-and-white images\
+             and to remove visible flaws.\
+             </p><p>Then we create the multitone images and include these in our final document using ConTeXt for layout.\
+             </p>']
+          , ['slides/0800.svg', '<p>Turns out, there was no Open Source Tool to create multitones.\
+             So we had to make it ourselves.\
+             </p><p>The best known tool to create multitones is the “duotone mode” of Adobe Photoshop.\
+             Photoshop allows to export its multitones as EPS.\
+             </p><p>EPS stands for “Encapsulated PostScript” what is essentially PostScript.\
+             PostScript is a programming language by Adobe and its documented well.\
+             </p><p>A PostScript file can be opened in any text-editor \
+             and there is an Open Source interpreter for PostScript, called Ghostscript.\
+             </p><p>So everything needed is alredy available.\
+             </p>']
+          , ['slides/0900.svg', '<p>I started with learning some PostScript—enough\
+             to understand what Photoshop was doing and to create\
+             a minmalistic multitone template myself.\
+             </p><p>Next, I had to enhance the python-ghostscript bindings for\
+             the ghostscript C-API. Because an important part for the direct\
+             EPS-preview was not implemented then.\
+             </p>']
+          , ['slides/1000.svg', '<p>The multitoner is written in Python\
+             using GTK+&nbsp;3 as a toolkit. All color previews are rendered using\
+             ghostscript directly.\
+             </p><p>There are two bigger widgets, that I implemented myself:\
+             the curves-editor and the preview-window.\
+             </p>']
+          , ['slides/1100.svg', '<dic style="font-size: 1.3em">\
+             <p>Now I’m going to show you the Multitoner in action.\
+             </p><p>I prepared a multitoner profile, so I don’t have to spend the time for this here.\
+             </p><p>A new multitoner document would look like this.\
+             (open new document)\
+             \we can add new inks with the add button.(add ink) and define it below.\
+             </p><p>It’s possible to open multiple preview images at a time.\
+             </p><p>In the upper left corner is the Control Panel.\
+             </p><p>Here we can \
+             arrange inks using drag and drop,the order of the inks is important in the end.\
+             </p><p>We can toggle the visibility of an ink, it’s not going to be used then.\
+             </p><p>And we can lock the ink so its curve cannot be altered \
+             in the curve editor.</p><p>The color swatch is used to set the color of the curve in the curve editor.\
+             </p><p>Inks are deleted here as well.\
+             </p><p>To change the properties of an ink, I select it in the control-panel.\
+             The Ink Setup widget opens.\
+             Here we can control the name, curve-type and preview color values of the ink.\
+             </p><p>On the right side are color previews for all inks, From their output\
+             for white on the left side to the output for black the right side.\
+             </p><p> On the lower right we can control these transformations with the curve-editor.\
+             control points can be added, removed and dragged around.(do so)\
+             </p><p>The final export of EPS-files is done from the preview window\
+             or the main window.\
+             </p><p>There is a command line tool for an automated build process \
+              of EPS-files as well.\
+             </p></div>']
+          , ['slides/1200.svg', '<p>\What’s missing\
+             </p><p>Color management is really important for good feedback.\
+             What I’m doing right now is just not enough.\
+             </p><p>Ghostscript has an option to load ICC-Profiles for\
+              multitone images and I count on it.\
+              Unfortunately it’s broken, so I don’t know\
+              how good it will work.\
+              </p><p>I’m waiting for Ghostscript to fix that bug.\
+             </p>']
+          , ['slides/1300.svg', '<p>\With color management there will be \
+              new work again.\
+             </p><p>The interface will need additions and some data structures \
+              will change, too.\
+             </p>']
+          , ['slides/1400.svg', '<p>After that I’ll need to organize a \
+             serious color profile for the first print job.\
+             </p><p>I never did this, so I don\'t know how well print shops\
+              will help me with that.\
+              </p><p>If one of you can help me with that, please drop me\
+              a mail. It will be much appreciated.\
+             </p>']
+          , ['slides/1500.svg', '<p>\Then it’s time to print and see if\
+             everything works as expected.\
+             </p><p>We’ll make a poster for the first tests.\
+             </p><p>When everything is fine, I call it a one point zero.\
+             </p>']
+          , ['slides/1600.svg', '<p>After that, here are some posssible features\
+              for version two point zero:\
+             </p><p>A library of good color profiles could help people massively\
+             to get started. Photoshop has a similar feature and it helps.\
+             </p><p>Better previews without color profiles would be nice, too.\
+             </p><p>A best fit curves features would help to get running as well.\
+             </p><p>And including component based separations as input would\
+             open the door for high-fidelity color like Hexachrome or more\
+             experimental ideas.\
+             </p>']
+          , ['slides/1700.svg', '<p>If you like this project and need some\
+              inspiration to contribute, here it is.\
+             </p><p>I won’t add support for windows or mac myself anytime soon, because\
+             I don’t need this. However, I’d support you if you plan to do so.\
+             </p><p>Packaging would be a good start to attract more users\
+             as well as writing good documentation.\
+             </p><p>If anyone would start a Libre Printing Project that cares \
+             about professional print production using FLOSS,\
+             that would be even better.\
+             </p>']
+          , ['slides/1800.svg', '<p>That’s it\
+             </p><p>If there’s time left I’ll answer some of your questions\
+             or we can meet later in the lobby.\
+             </p>']
+        ]
+    })
+    </script>.
+</head>
+<body>
+
+</body>
+</html>
