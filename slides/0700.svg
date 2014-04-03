@@ -18,6 +18,10 @@
    sodipodi:docname="0700.svg">
   <defs
      id="defs4">
+<style>
+      @import url(http://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700|PT+Sans:400,400italic);
+</style>
+
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 384 : 1"
