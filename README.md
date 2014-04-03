@@ -1,3 +1,5 @@
+This is online [here](http://graphicore.github.io/presenter). Firefox doesn't use the webfonts when the svg is a background image, chrome/chromium should look good.
+
 Presenter
 =========
 This is the presenation I held at the LGM. Beeing no native english speaker, I basically had a lot of text prepared in a cheat sheet. So this is not only slides but what I said, too.
